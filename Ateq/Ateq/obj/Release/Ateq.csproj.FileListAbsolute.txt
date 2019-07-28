@@ -1,0 +1,11 @@
+C:\Protech\Ateq\Ateq\bin\Release\Ateq.exe.config
+C:\Protech\Ateq\Ateq\bin\Release\Ateq.exe
+C:\Protech\Ateq\Ateq\bin\Release\Ateq.pdb
+C:\Protech\Ateq\Ateq\obj\Release\Ateq.csprojAssemblyReference.cache
+C:\Protech\Ateq\Ateq\obj\Release\Ateq.Form1.resources
+C:\Protech\Ateq\Ateq\obj\Release\Ateq.Properties.Resources.resources
+C:\Protech\Ateq\Ateq\obj\Release\Ateq.csproj.GenerateResource.cache
+C:\Protech\Ateq\Ateq\obj\Release\Ateq.csproj.CoreCompileInputs.cache
+C:\Protech\Ateq\Ateq\obj\Release\Ateq.exe
+C:\Protech\Ateq\Ateq\obj\Release\Ateq.pdb
+C:\Protech\Ateq\Ateq\obj\Release\Ateq.MessageForm.resources
